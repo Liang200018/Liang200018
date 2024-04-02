@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liang200018
-- 👀 I’m interested in Python Data Analysis, Data Mining
-- 🌱 I’m currently learning Python Data Analysis
+- 👀 I’m interested in Web Development, Python Data Analysis, Data Mining.
+- 🌱 I’m currently learning ElasticSearch.
 - 💞️ I’m looking to collaborate on python 
 - 📫 How to reach me : somebodylzy@qq.com
 
